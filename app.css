@@ -1,0 +1,29 @@
+body {
+    margin:40px auto;
+    font-size:18px;
+}
+.logo-container {
+	text-align: center;
+	margin-top: 20px;
+}
+.coinomi-logo {
+	width:100px;
+	height: auto;
+}
+.container {
+	display: flex;
+	justify-content: center;
+}
+.title {
+	display: block;
+	text-align: center;
+	font-size: 2em;
+	font-weight: 700;
+	margin-top: 20px;
+}
+.footer {
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	margin: 20px;
+}
